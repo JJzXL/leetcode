@@ -22,7 +22,7 @@ import java.util.List;
  * Y A   H R
  * P     I
  *
- * @author lixu
+ * @author JJzXL
  * @date 2023/12/31
  */
 public class Exercise6 {

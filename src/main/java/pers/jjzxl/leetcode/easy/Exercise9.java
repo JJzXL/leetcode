@@ -29,7 +29,7 @@ import java.util.List;
  * 链接：https://leetcode.cn/problems/palindrome-number
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  *
- * @author lixu
+ * @author JJzXL
  * @date 2019/03/15
  */
 public class Exercise9 {
