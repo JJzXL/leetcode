@@ -4,4 +4,6 @@
 *.iml
 *.ipr
 
+target
+
 /leetcode.iml
